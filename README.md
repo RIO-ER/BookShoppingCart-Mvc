@@ -1,8 +1,4 @@
-# BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
-
-It is a source code of the youtube tutorial on [Build a Full E-commerce Application Using .NET Core 10, SQL Server 2025, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
-
-📢 Initially , this project was built with `.net 7` and `sql server 2022`. But it is `Upgraded to .net 10.0` and `sql server 2025` and I will try to keep it up to date.
+# BookShoppingCartMvc (A basic e-comm system for beginners)
 
 ## Tech stack 🧑‍💻
 
@@ -18,13 +14,7 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 - Microsoft Sql Server Management Studio (Alternative : mssql extension for vscode / dbeaver).
 - Instead of manually installing `sql server`, you can also used `sql server` which is spun up in `docker`.
 
-**Note:** Every tool and tech is free for personal use. 
-
-## Video tutorial 📺
-
-[Build a Full E-commerce Application Using .NET Core 10, SQL Server, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go)
-
-## How to run the project?🌐
+## How to run the project?
 
 ### 1. With docker compse (Quickest way)
 
@@ -67,13 +57,13 @@ git clone https://github.com/rd003/BookShoppingCart-Mvc
 
 4. Run the project.
 
-📢 When you run the project for the first time, it will do following things:
+When you run the project for the first time, it will do following things:
 
 - It will generate the database
 - It will seed some data
 - It will create an account for `admin`
 
-## How to logged-in with admin account?? 🧑‍💻🧑‍💻
+## How to logged-in with admin account?? 
 
 Click on the link named `login` and get logged-in with these credentials.
 
@@ -175,16 +165,3 @@ password: Admin@123
 
 ## Thanks
 
-If you find this repository useful, then consider to leave a ⭐.
-
-Connect with me
-
-👉 YouTube: <https://youtube.com/@ravindradevrani>
-
-👉 Twitter: <https://twitter.com/ravi_devrani>
-
-Become a supporter ❣️:
-You can buy me a coffee 🍵 : <https://www.buymeacoffee.com/ravindradevrani>
-
-Thanks a lot 🙂🙂
-# BookShoppingCart-Mvc
