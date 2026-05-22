@@ -1,6 +1,6 @@
-# BookShoppingCartMvc (A basic e-comm system for beginners)
+# BookShoppingCartMvc
 
-## Tech stack 🧑‍💻
+## Tech stack 
 
    - Dotnet core mvc (.Net 10.0)
    - MS SQLServer 2025 (Database)
